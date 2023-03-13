@@ -23,5 +23,4 @@ function TodoTable(props) {
 
     );
 }
-
 export default TodoTable;
